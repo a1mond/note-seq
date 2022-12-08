@@ -30,7 +30,7 @@ REQUIRED_PACKAGES = [
     'numpy',
     'pandas >= 0.18.1',
     'pretty_midi >= 0.2.6',
-    'protobuf >= 4.21.2',
+    'protobuf >= 3.19.0,<3.20',
     'pydub',
     'scipy >= 0.18.1',
 ]
